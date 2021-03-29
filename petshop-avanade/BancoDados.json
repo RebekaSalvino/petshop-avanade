@@ -1,0 +1,48 @@
+{
+    "pets": [
+        {
+            "nome": "Costelinha",
+            "tipo": "cachorro",
+            "idade": 5,
+            "raca": "Vira-lata",
+            "peso": 3,
+            "tutor": "Doug",
+            "contato": "(11) 98899-454",
+            "vacinado": true,
+            "servicos": []
+        },
+        {
+            "nome": "Ada",
+            "tipo": "cachorro",
+            "idade": 1,
+            "raca": "Vira-lata",
+            "peso": 2,
+            "tutor": "Pedro",
+            "contato": "(11) 98899-4545",
+            "vacinado": true,
+            "servicos": []
+        },
+        {
+            "nome": "Pedrita",
+            "tipo": "cachorro",
+            "idade": 10,
+            "raca": "Pastor Alemão",
+            "peso": 18,
+            "tutor": "João",
+            "contato": "98899-9999",
+            "vacinado": true,
+            "servicos": []
+        },
+        {
+            "nome": "Romarinho",
+            "tipo": "cachorro",
+            "idade": 3,
+            "raca": "Americano",
+            "peso": 28,
+            "tutor": "Bruno",
+            "contato": "(11) 99999-9999",
+            "vacinado": true,
+            "servicos": []
+        }
+    ]
+}

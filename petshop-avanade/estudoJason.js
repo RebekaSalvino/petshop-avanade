@@ -24,3 +24,4 @@ console.log('-----------');
 atenderCliente(pets[2], apararUnhas);
 console.log('-----------');
 atenderCliente(pets[1]);
+
